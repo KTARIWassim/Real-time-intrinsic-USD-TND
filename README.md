@@ -298,8 +298,6 @@ After running the pipeline, `output/` contains:
 
 ## Academic context
 
-This project is the final deliverable for **FIN 460 – Dynamic Asset Pricing Theory** at Tunis Business School, under the supervision of **Dr. Eymen Errais**.
-
 The methodology draws on:
 - Kalman (1960) — optimal linear filtering under Gaussian noise
 - Ornstein & Uhlenbeck (1930) — mean-reverting stochastic processes
@@ -316,4 +314,8 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ## Authors
 
-FIN 460 Project Team · Tunis Business School · 2025
+Wassim Ktari
+
+Portfolio: wassimktari.com
+LinkedIn: /in/wassimktari
+Email: wassim.ktari23@gmail.com
