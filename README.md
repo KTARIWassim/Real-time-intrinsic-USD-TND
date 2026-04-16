@@ -314,8 +314,7 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ## Authors
 
-Wassim Ktari
-
-Portfolio: wassimktari.com
-LinkedIn: /in/wassimktari
-Email: wassim.ktari23@gmail.com
+**Wassim Ktari**
+- Portfolio: [wassimktari.com](https://wassimktari.com)
+- LinkedIn: [/in/wassimktari](https://linkedin.com/in/wassimktari)
+- Email: wassim.ktari23@gmail.com
